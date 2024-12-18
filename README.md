@@ -1,4 +1,4 @@
-# Pipelined_Single_Cycle_Implementation
+# Pipelined_Single_Memory_CPU_Implementation
 
 **Project Overview**
 
